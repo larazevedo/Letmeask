@@ -40,3 +40,5 @@ yarn start
 ![1](.github/Login.png)
 ---
 ![2](.github/Home.png)
+---
+![3](.github/Admin.png)
